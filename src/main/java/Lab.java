@@ -26,7 +26,7 @@ public class Lab {
      * debugger tool, to help you understand what is really happening when the loop is running.
      *
      * If you program doesn't stop running, that means the condition you defined is never broken as the code executes.
-     * This could either be a result of a mistake in writing the condition i < end or in writing the line i = i + 1;
+     * This could either be a result  of a mistake in writing the condition i < end or in writing the line i = i + 1;
      *
      * @param end a number representing the number to which the sum of all numbers starting from 0 should be calculated
      *            (exclusive - for example, when end is 5, we calculate 0+1+2+3+4)
